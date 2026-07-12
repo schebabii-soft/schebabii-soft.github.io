@@ -1,6 +1,6 @@
 # Privacy Policy for RC Telemetry Monitor
 
-**Last Updated: 28-06-2026**
+**Last Updated: 12-07-2026**
 
 This Privacy Policy describes how RC Telemetry Monitor handles your information. By using the App, you agree to the collection and use of information in accordance with this policy.
 
